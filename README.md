@@ -1,4 +1,4 @@
-# RedNeuronalPrueba1
+# PyRedNeuronalPrueba1
 
 ## Descripción 
 1) Proyecto de Predicción de Precio de Casas:
@@ -17,8 +17,8 @@
 1- Clonar el Repositorio:
 
 ```
-git clone https://github.com/ignacioVillarreal2003/AcortadorURL.git
-cd RedNeuronalPrueba1
+git clone https://github.com/ignacioVillarreal2003/RedNeuronalPrueba1.git
+cd PyRedNeuronalPrueba1
 ```
 
 2- Instalar Dependencias:
@@ -30,5 +30,5 @@ pip install tensorflow numpy
 3- Ejecutar la Aplicación:
 
 ```
-python redneuronalprueba1.py
+python pyredneuronalprueba1.py
 ```
